@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fact Sheet News</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="topic_article">article</string>
+    <string name="topic_liveblog">liveblog</string>
+    <string name="no_news">No News To Show</string>
+</resources>
